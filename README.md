@@ -1,4 +1,6 @@
-![](https://www.canva.com/design/DAFpGwbPXMs/Qs7QtsiM5aF2XLCTvKO9RA/watch?utm_content=DAFpGwbPXMs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 # 💫 About Me:
 🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on Open-Source<br>🌱 I’m currently learning React-JS
