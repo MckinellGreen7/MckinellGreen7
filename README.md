@@ -1,5 +1,4 @@
-### <samp>Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Shriyansh Khandelwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
+## <samp>Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Shriyansh Khandelwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <img align="right" alt="GIF" src="https://github.com/MckinellGreen7/MckinellGreen7/blob/main/readme1.gif" width="408" height="275" margin="5px" margin-top="0px" />
 
 # 💫 About Me:
