@@ -1,6 +1,6 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Shriyansh Khandelwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img alt="GIF" src="https://github.com/MckinellGreen7/MckinellGreen7/main/readme.gif" width="408" height="318" />
 
 # 💫 About Me:
 🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on Open-Source<br>🌱 I’m currently learning React-JS
