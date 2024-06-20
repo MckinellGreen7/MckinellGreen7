@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/MckinellGreen7/MckinellGreen7/blob/main/readme1.gif" width="408" height="275" margin="5px" margin-top="0px" />
 
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on Open-Source<br>🌱 I’m currently learning React-JS
+🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on Open-Source<br>🌱 I’m currently learning Next-JS
 
 ## Connect with me
 <p align="left">
